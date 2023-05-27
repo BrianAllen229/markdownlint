@@ -952,6 +952,14 @@
       },
       "additionalProperties": false
     },
+    "MD054": {
+      "description": "MD054/undefined-references - Undefined references",
+      "type": [
+        "boolean",
+      ],
+      "default": true,
+      "additionalProperties": false
+    },
     "link-image-reference-definitions": {
       "$ref": "#/properties/MD053"
     },
